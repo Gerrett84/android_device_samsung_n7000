@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2013 The CyanogenMod Project
 
@@ -5,6 +6,15 @@
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+>>>>>>> 82aef85... n7000 : Fr translation
           http://www.apache.org/licenses/LICENSE-2.0
 
      Unless required by applicable law or agreed to in writing, software
@@ -13,7 +23,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
+<<<<<<< HEAD
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+=======
+
+<resources>
+>>>>>>> 82aef85... n7000 : Fr translation
     <string-array name="mdnie_scenario_entries">
         <item>Caméra (Défaut)</item>
         <item>Vidéo</item>
@@ -63,7 +78,11 @@
         <item>HSDPA + HSUPA</item>
     </string-array>
     <string-array name="touchkey_timeout_entries">
+<<<<<<< HEAD
         <item>Désactivé</item>
+=======
+        <item>Jamais</item>
+>>>>>>> 82aef85... n7000 : Fr translation
         <item>1 seconde</item>
         <item>2 secondes</item>
         <item>3 secondes (Défaut)</item>
