@@ -9,7 +9,7 @@
         "project": "Gerrert84",
         "repository": "android_device_samsung_n7000",
         "target_path": "device/samsung/n7000",
-        "branch": "cm-10.1"
+        "branch": "jellybean-mr1"
     },
     {
         "project": "CyanogenMod",
