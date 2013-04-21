@@ -29,9 +29,14 @@
         "target_path": "hardware/samsung",
         "branch": "cm-10.1"
     },
-    { "project": "TheMuppets",
-        "repository": "android_proprietary_vendor_samsung",
+    { "project": "ChameleonOS",
+        "repository": "android_vendor_samsung_galaxys2-common",
         "target_path": "vendor/samsung/",
-        "branch": "cm-10.1"
+        "branch": "jellybean-mr1"
+    },
+    { "project": "Gerrett84",
+        "repository": "android_vendor_samsung_n7000",
+        "target_path": "vendor/samsung/",
+        "branch": "jellybean-mr1"
     }
 ]
