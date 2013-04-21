@@ -31,12 +31,12 @@
     },
     { "project": "ChameleonOS",
         "repository": "android_vendor_samsung_galaxys2-common",
-        "target_path": "vendor/samsung/",
+        "target_path": "vendor/samsung/galaxys2-common",
         "branch": "jellybean-mr1"
     },
     { "project": "Gerrett84",
         "repository": "android_vendor_samsung_n7000",
-        "target_path": "vendor/samsung/",
+        "target_path": "vendor/samsung/n7000",
         "branch": "jellybean-mr1"
     }
 ]
