@@ -31,7 +31,7 @@
     },
     { "project": "Gerrett84",
         "repository": "android_vendor_samsung_n7000",
-        "target_path": "vendor/samsung/",
+        "target_path": "vendor/samsung",
         "branch": "jellybean-mr1"
     }
 ]
