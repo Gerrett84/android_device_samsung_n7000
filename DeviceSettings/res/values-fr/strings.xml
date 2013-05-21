@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
 <!-- Copyright (C) 2013 The CyanogenMod Project
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+>>>>>>> 0f00ea6... n7000: switch to smdk4412 kernel
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,7 +29,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 <<<<<<< HEAD
+<<<<<<< HEAD
 -->
+=======
+ -->
+
+>>>>>>> 0f00ea6... n7000: switch to smdk4412 kernel
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 =======
  -->
