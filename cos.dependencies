@@ -1,9 +1,9 @@
 [
     {
-        "project": "ChameleonOS",
+        "project": "Gerrett84",
         "repository": "android_device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
-        "branch": "jellybean-mr1"
+        "branch": "jellybean"
     },
     {
         "project": "Gerrert84",
