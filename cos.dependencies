@@ -13,8 +13,8 @@
     },
     {
         "project": "CyanogenMod",
-        "repository": "android_kernel_samsung_smdk4210",
-        "target_path": "kernel/samsung/smdk4210",
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
         "branch": "cm-10.1"
     },
     {
@@ -32,6 +32,6 @@
     { "project": "Gerrett84",
         "repository": "android_vendor_samsung_n7000",
         "target_path": "vendor/samsung",
-        "branch": "jellybean-mr1"
+        "branch": "jellybean"
     }
 ]
