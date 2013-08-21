@@ -12,10 +12,10 @@
         "branch": "jellybean-mr2.1"
     },
     {
-        "project": "CyanogenMod",
+        "project": "Gerrett84",
         "repository": "android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "branch": "cm-10.1"
+        "branch": "jellybean-mr2.1"
     },
     {
         "project": "CyanogenMod",
